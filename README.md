@@ -5,3 +5,4 @@ Android app that checks the weather and temperature of a city using OpenWeatherM
 * working with API's and how to get, work with, and format data with JSON files
 
 # Screenshots
+![main_weather_page]https://github.com/neilZon/WeatherApp/blob/master/weatherAppResources/mainWeather.PNG
